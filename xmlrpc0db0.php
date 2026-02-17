@@ -2,13 +2,13 @@
 	<service>
 		<engineName>WordPress</engineName>
 		<engineLink>https://wordpress.org/</engineLink>
-		<homePageLink>https://alexballard.vercel.app/</homePageLink>
+		<homePageLink>https://george-spence.sbs/</homePageLink>
 		<apis>
-			<api name="WordPress" blogID="1" preferred="true" apiLink="https://alexballard.vercel.app/xmlrpc.php" />
-			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://alexballard.vercel.app/xmlrpc.php" />
-			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://alexballard.vercel.app/xmlrpc.php" />
-			<api name="Blogger" blogID="1" preferred="false" apiLink="https://alexballard.vercel.app/xmlrpc.php" />
-				<api name="WP-API" blogID="1" preferred="false" apiLink="https://alexballard.vercel.app/wp-json/" />
+			<api name="WordPress" blogID="1" preferred="true" apiLink="https://george-spence.sbs/xmlrpc.php" />
+			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://george-spence.sbs/xmlrpc.php" />
+			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://george-spence.sbs/xmlrpc.php" />
+			<api name="Blogger" blogID="1" preferred="false" apiLink="https://george-spence.sbs/xmlrpc.php" />
+				<api name="WP-API" blogID="1" preferred="false" apiLink="https://george-spence.sbs/wp-json/" />
 			</apis>
 	</service>
 </rsd>
